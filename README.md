@@ -14,11 +14,13 @@
  
 <br>
  
-### Pra saber mais sobre mim me segue nas redes abaixo!
+### Pra saber mais sobre mim me sigue nas redes abaixo!
  
 <div>
   <a href="https://www.instagram.com/michel_pessopani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/2400" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "michelpessopani@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" alvo ="_blank"></a>
-  <a href="https://www.linkedin.com/in/michelpessopani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/michelopessopani#2400" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:michelpessopani@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" alvo ="_blank"></a>
+  <a href="https://www.linkedin.com/in/MichelPessopani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
